@@ -1,0 +1,36 @@
+/* Resultado 1: posicionamiento absoluto y z-index. */
+#diez_de_diamantes {
+  position: absolute;
+  top: 100px;
+  left: 100px;
+  z-index: 1;
+}
+
+#sota_de_diamantes {
+  position: absolute;
+  top: 115px;
+  left: 115px;
+  z-index: 2;
+}
+
+#reina_de_diamantes {
+  position: absolute;
+  top: 130px;
+  left: 130px;
+  z-index: 3;
+}
+
+#rey_de_diamantes {
+  position: absolute;
+  top: 145px;
+  left: 145px;
+  z-index: 4;
+}
+
+#as_de_diamantes {
+  position: absolute;
+  top: 160px;
+  left: 160px;
+  z-index: 5;
+}
+
